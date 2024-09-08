@@ -19,7 +19,7 @@ A simple web application that generates random colors and displays them. Built u
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd random-color-generator
+   cd Random-color-generator
    ```
 
 3. **Open the Project**
