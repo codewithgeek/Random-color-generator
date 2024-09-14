@@ -51,4 +51,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [MDN Web Docs](https://developer.mozilla.org/) for providing helpful web development resources.
+  
 - [Stack Overflow](https://stackoverflow.com/) for community support and answers.
